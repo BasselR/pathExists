@@ -5,7 +5,7 @@ Given 2 ordered pairs of coordinates, it will tell you whether or not those poin
 
 Some notes:
 
-A sample main file has been provided. You can change the sample matrix (A) and the number of rows and columns accordingly (n amd m).
+A sample main function has been provided. You can change the sample matrix (A) and the number of rows and columns accordingly (n amd m).
 
 The 2D matrix is represented in a 1D array, stored row-wise.
 
